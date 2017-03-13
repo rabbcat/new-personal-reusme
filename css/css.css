@@ -39,6 +39,7 @@
     line-height: 1.3;
     font-size: 30px;
     font-weight: bolder;
+    padding-left:50px;
     font-family: "montserrat-bold", sans-serif;
 
 
@@ -51,7 +52,7 @@
     margin-left:40px;
 }
 .overlay .row{
-    padding:120px 50px 180px 50px;
+/*     padding:120px 50px 180px 50px; */
 }
 /*s1¶¯»­*/
 @-webkit-keyframes fadeInUp{
